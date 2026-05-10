@@ -94,8 +94,8 @@ Counterparty risk scoring is based on formula-driven logic: break rate × exposu
 
 | Project | Description | Link |
 |---|---|---|
-| Trade Settlement & NAV Reconciliation Tracker | 75 trades · 5 custodians · £693M notional | [View Repo](../Trade-Settlement-Reconciliation) |
-| BlackRock DCF Equity Valuation | Institutional DCF · WACC 9.29% · HOLD recommendation | [View Repo](../BlackRock-DCF-Valuation) |
+| Trade Settlement & NAV Reconciliation Tracker | 75 trades · 5 custodians · £693M notional | [View Repo](shashwat-pati-tripathi/Trade-Settlement-Reconciliation-) |
+| BlackRock DCF Equity Valuation | Institutional DCF · WACC 9.29% · HOLD recommendation | [View Repo](shashwat-pati-tripathi/BlackRock-DCF-Valuation-) |
 
 ---
 
